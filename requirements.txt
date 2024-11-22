@@ -1,0 +1,4 @@
+vk-api>=11.9.9
+python-dotenv>=1.0.1
+aiohttp>=3.11.7
+ptyprocess>=0.7.0
